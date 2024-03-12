@@ -6,6 +6,6 @@ const getStudentIdsSum = (students) => {
     );
   }
   return 0;
-}
+};
 
 export default getStudentIdsSum;
